@@ -1,6 +1,6 @@
 # Simulating The Penning Trap
 
-<img src="figures/analytical2d.png" width="438"> <img src="figures/2particle_xy_without.png" width="500">
+<img src="figures/analytical2d.png" width="300"> <img src="figures/2particle_xy_without.png" width="450">
 
 
 ## Abstract
